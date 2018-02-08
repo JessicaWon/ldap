@@ -1,0 +1,11 @@
+Use yum tool to install ldap server and client, which is slapd and nslcd
+
+#slapd
+yum -y install openldap-servers openldap-clients openssh-ldap
+
+#nslcd
+yum install nslcd
+
+#phpldapadmin
+This is a page that you can see those data from page
+yum remove phpldapadmin -y

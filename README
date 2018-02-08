@@ -1,1 +1,5 @@
-this is a note for installing ldap and configuring ldap
+This is a note for installing ldap and configuring ldap
+
+The system's version is centos7
+##this configuration has been tested in centos envronment, there is a diffrent point between debian and centos
+
